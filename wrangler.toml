@@ -19,6 +19,9 @@ minify = false
 [build]
 command = "npm run build"
 
+[placement]
+mode = "smart"
+
 [[rules]]
 type = "ESModule"
 globs = ["**/*.js"]
