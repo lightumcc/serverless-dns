@@ -27,3 +27,4 @@ bin/main.wasm
 pkg/serverless-dns.tar.gz
 
 .history/
+.DS_Store
